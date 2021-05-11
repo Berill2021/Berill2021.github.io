@@ -1,0 +1,93 @@
+#topline, #main-footer{
+	background-color:#ffa500;	
+}
+
+body{
+	background-color:#7B68EE;	
+	height:100%;
+}
+
+ 
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color:white!important;
+}
+.mymenu h3, .mymenu a:hover{
+	color:orange;
+}
+
+ 
+#logo:hover img{
+	transform:scale(1.1);
+	transition: all ease 1s;
+}
+
+
+.bg-light {
+    background-color:#7B68EE!important;
+}
+ 
+.dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ffa500;
+}
+.dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: #ffa500;
+}
+ 
+
+.navbar-light .navbar-toggler {
+    color: green!important;
+    border-color: white;
+	background-color:white; /* My TEST  */
+}
+
+ 
+.mymenu {	
+	padding-right:0px;
+    padding-left: 0px;
+}
+
+.navbar-expand-lg{
+	padding-left:1%;	
+}
+
+.nav-link {
+    display: block;
+	padding: .5rem 1rem;
+}
+#top-slideshow{
+	padding:20px 0;
+}
+.mymenu a:hover {
+    color: black;    
+}	
+
+
+ 
+#main-footer ul{
+	list-style: none; 
+	margin-top:15px;
+	font-size:14pt;	
+}
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
