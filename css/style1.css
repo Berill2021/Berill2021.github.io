@@ -278,6 +278,7 @@ position:fixed;
 #main-footer iframe{	
 	margin:15px 0;
 }
+	
 /*--Button on Footer mainpage--*/
 .btn-outline-info:not(:disabled):not(.disabled).active, 
 .btn-outline-info:not(:disabled):not(.disabled):active,
@@ -285,6 +286,11 @@ position:fixed;
     color: black;
     background-color: #17a2b8;
     border-color: black;
+}
+.footer1{
+	position:absolute;
+	bottom: 0px;
+	right: 0px;
 }
 
 .btn-outline-info {
@@ -331,7 +337,7 @@ position:fixed;
 	height:100px;
 	margin:40px auto;
 	padding:10px 0;
-	color:white;
+	color:blue;
 	background: #24191c; 
 }
 #logopageabout:hover img{
@@ -389,7 +395,7 @@ position:fixed;
 
 .main h3 {
     font-size: 60px;
-    color: #fff;
+    color:blue;
 }
 
 .main p {
@@ -413,7 +419,7 @@ position:fixed;
     border: 1px solid #fff;
     border-radius: 40px;
     text-align: center;
-    color: #fff;
+    color:#fff;
     font-size: 24px;
 }
 
@@ -425,7 +431,7 @@ position:fixed;
     border: 1px solid #fff;
     border-radius: 20px;
     text-align: center;
-    color: #fff;
+    color:#fff;
     font-size: 24px;
 }
 
@@ -464,7 +470,7 @@ position:fixed;
 }
 
 ::placeholder {
-    color: #fff;
+    color:blue;
     text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 }
 
